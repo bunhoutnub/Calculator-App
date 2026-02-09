@@ -7,7 +7,7 @@ A beautiful, modern calculator built with HTML, CSS, and JavaScript featuring a 
 - Modern glassmorphism UI with gradient backgrounds
 - Basic arithmetic operations (+, −, ×, ÷)
 - Fully responsive design
-- ⌨Keyboard support
+- Keyboard support
 - Percentage calculations
 - Smooth animations and hover effects
 
