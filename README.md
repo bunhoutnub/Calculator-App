@@ -4,12 +4,12 @@ A beautiful, modern calculator built with HTML, CSS, and JavaScript featuring a 
 
 ## Features
 
-- ✨ Modern glassmorphism UI with gradient backgrounds
-- 🔢 Basic arithmetic operations (+, −, ×, ÷)
-- 📱 Fully responsive design
-- ⌨️ Keyboard support
-- 🎯 Percentage calculations
-- 🎨 Smooth animations and hover effects
+- Modern glassmorphism UI with gradient backgrounds
+- Basic arithmetic operations (+, −, ×, ÷)
+- Fully responsive design
+- ⌨Keyboard support
+- Percentage calculations
+- Smooth animations and hover effects
 
 ## How to Use
 
